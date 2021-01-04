@@ -12,4 +12,4 @@
 - Skill and Efficiency Enhancement.
 
 [Github](https://github.com/magicbowen)
-[Blogs](https://www.jianshu.com/u/92b7d9879f20)
+[Blog](https://www.jianshu.com/u/92b7d9879f20)
